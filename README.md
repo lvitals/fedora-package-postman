@@ -1,7 +1,9 @@
 # fedora-package-postman
 
 Package: Postman
+
 Version: 7.28
+
 Arch: x86_64
 
 
