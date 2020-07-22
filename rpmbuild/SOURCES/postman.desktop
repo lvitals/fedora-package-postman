@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Postman
+Comment=Postman for API developers
+Exec=/opt/postman/Postman %U
+Icon=postman
+Type=Application
+StartupNotify=true
+Categories=Development;Utility;
+StartupWMClass=Postman
+MimeType=x-scheme-handler/postman
