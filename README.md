@@ -11,9 +11,9 @@ Arch: x86_64
 
 ```bash
 
-# dnf install fedora-packager @development-tools
+$ sudo dnf install fedora-packager @development-tools
 
-# usermod -a -G mock <your username>
+$ sudo usermod -a -G mock <your username>
 
 $ cp -R rpmbuild cd ~/
 
